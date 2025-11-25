@@ -47,7 +47,7 @@ The system is powered by a proprietary dataset spanning **1917 to 2025**.
 * **38** Rich Metadata Columns
 * **RAG-Optimized** `canonical_embedding_text` fields
 
-We have open-sourced a **500-row sample** for the community.
+I have open-sourced a **500-row sample** for the community.
 👉 **[Download the Sample Dataset on Kaggle](https://www.kaggle.com/datasets/divyanshusingh369/aimi-anime-rag-and-receipts-dataset-sample/data)**
 
 -----
@@ -85,3 +85,4 @@ This software is **Commercial / Source-Available**.
 > *Built with ❤️ by Divyanshu Singh*
 
 -----
+
