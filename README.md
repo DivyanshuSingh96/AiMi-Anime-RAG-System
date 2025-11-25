@@ -72,6 +72,10 @@ This is a **Source-Available** commercial product. It is designed for entreprene
 | **Tier 2** | **Full AiMi Recommendation System (Backend + UI)** | <a href="https://divyanshu369.gumroad.com/l/aimi-recommendation-system"><img src="https://img.shields.io/badge/Get-AiMi_Recommendation_System-orange?style=for-the-badge&logo=gumroad" alt="Get Source Code"></a> |
 | **Tier 3** | **Ultimate AiMi Recommendation System + AiMi Anime Receipts Generator** | <a href="https://divyanshu369.gumroad.com/l/aimi-anime-ecosystem"><img src="https://img.shields.io/badge/Get-Ultimate_AiMi_Ecosystem-red?style=for-the-badge&logo=gumroad" alt="Get Ultimate Ecosystem"></a> |
 
+🔥 Launch Offer: Get 10% off Tier 3 with code: AIMILAUNCH (Ends Nov 28)
+👉 **[Get the Complete Ecosystem + 10% OFF (Tier 3)](https://divyanshu369.gumroad.com/l/aimi-anime-ecosystem/AIMILAUNCH)**
+
+
 -----
 
 ## 📜 License
@@ -85,4 +89,5 @@ This software is **Commercial / Source-Available**.
 > *Built with ❤️ by Divyanshu Singh*
 
 -----
+
 
